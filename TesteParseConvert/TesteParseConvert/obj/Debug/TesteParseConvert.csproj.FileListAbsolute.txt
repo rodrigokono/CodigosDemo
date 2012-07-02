@@ -1,0 +1,6 @@
+D:\Temp\TesteParseConvert\TesteParseConvert\bin\Debug\TesteParseConvert.exe.config
+D:\Temp\TesteParseConvert\TesteParseConvert\bin\Debug\TesteParseConvert.exe
+D:\Temp\TesteParseConvert\TesteParseConvert\bin\Debug\TesteParseConvert.pdb
+D:\Temp\TesteParseConvert\TesteParseConvert\obj\Debug\TesteParseConvert.csprojResolveAssemblyReference.cache
+D:\Temp\TesteParseConvert\TesteParseConvert\obj\Debug\TesteParseConvert.exe
+D:\Temp\TesteParseConvert\TesteParseConvert\obj\Debug\TesteParseConvert.pdb
